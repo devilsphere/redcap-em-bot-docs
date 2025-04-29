@@ -1,2 +1,11 @@
-![REDCap EM Bot](https://img.shields.io/badge/REDCap_EM_Bot-Teaching_Resources-blue?style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+# REDCap EM Bot Teaching Repo
+
+This repository supports the development and teaching efforts behind the REDCap EM Bot — a specialized assistant for REDCap External Module development, Docker-based workflows, and REDCap Repo submission readiness.
+
+It includes:
+- ✅ Validated config.json examples
+- ✅ Minimal and advanced checklists
+- ✅ Teaching module credits
+- ✅ JHU and REDCap consortium resources
+
+Maintained by: [devilsphere](https://github.com/devilsphere)
