@@ -1,11 +1,7 @@
-# REDCap EM Bot Teaching Repo
+# REDCap EM Bot Docs
 
-This repository supports the development and teaching efforts behind the REDCap EM Bot — a specialized assistant for REDCap External Module development, Docker-based workflows, and REDCap Repo submission readiness.
+This repository contains reference documentation for REDCap core methods available to External Modules (as of REDCap v15.0.20). All method files are auto-tagged and formatted for compatibility with GitHub Pages or Docsify.
 
-It includes:
-- ✅ Validated config.json examples
-- ✅ Minimal and advanced checklists
-- ✅ Teaching module credits
-- ✅ JHU and REDCap consortium resources
-
-Maintained by: [devilsphere](https://github.com/devilsphere)
+- Folder: `methods/core/`
+- Format: Markdown
+- Version: REDCap 15.0.20
